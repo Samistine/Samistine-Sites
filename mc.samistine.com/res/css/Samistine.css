@@ -1,0 +1,46 @@
+.SamistineSection{
+    max-width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.SamistineInfo{
+  font-size: 120%;
+  font-family: Verdana, Geneva, sans-serif
+}
+.SamistineHead{
+  text-align: center;
+  font-size: 200%;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+}
+.footer {
+  width:100%;
+  max-width:1000px;
+  background-color:rgba(255,255,255,.9);
+  text-align: center;
+}
+.container .row {
+  text-align: center;
+}
+.logo{
+  max-width: 500px;
+  /*position: absolute;
+  right: 0;*/
+}
+body {
+  background-image: url('/res/img/bg1.jpg');
+  background-attachment: fixed;
+  background-size: contain;
+}
+#policy {
+  text-align: center
+}
+#footer {
+  padding: 10px 15px;
+  background-color: #f5f5f5;
+  border-top: 1px solid #dddddd;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+.SamSpace {
+  line-height: 100%;
+}
